@@ -1,0 +1,14 @@
+:root {
+  font-family: PingFangSC, PingFang SC;
+}
+
+html {
+  font-size: 16px;
+}
+
+body,
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
