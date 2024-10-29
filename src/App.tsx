@@ -115,7 +115,10 @@ function App() {
         </div>
       </div>
 
-      <footer />
+      <footer>
+        <div>© 2024 杭州逐光而行科技有限公司版权所有</div>
+        <a href="https://beian.miit.gov.cn/" target="_blank">浙ICP备2024126179号-1</a>
+      </footer>
     </div>
   );
 }

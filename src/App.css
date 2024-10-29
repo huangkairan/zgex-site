@@ -243,4 +243,13 @@ header {
 footer {
   height: 10.31rem;
   background: linear-gradient(180deg, #6d75db 0%, #2f37c6 100%);
+  color: lightgray;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  a {
+    color: lightgray;
+    text-decoration: none;
+  }
 }
